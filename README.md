@@ -1,4 +1,4 @@
-#Dell Inspiron 15 3567 Hackintosh (Clover 5122)
+#Dell Inspiron 15 3578 Hackintosh (Clover 5122)
 
 # Specs:
 - Intel UHD 620
