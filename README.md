@@ -10,7 +10,7 @@
 - Fn + Brightness (F11, F12)
 - Touchpad
 - HDMI
-- All Port USB
+- All USB Ports
 
 # What doesn't work:
 - Wifi, Bluetooth
