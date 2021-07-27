@@ -1,6 +1,6 @@
-#Dell Inspiron 15 3578 Hackintosh (Clover 5122)
+# Dell Inspiron 15 3578 Hackintosh (Clover 5122)
 
-# Specs:
+# Working:
 - Intel UHD 620
 - Restart, Sleep and Shutdown
 - CPU Power Management
