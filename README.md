@@ -1,4 +1,4 @@
-# Dell Inspiron 15 3578 Hackintosh (Clover 5122)
+# Dell Vostro 15 3578 Hackintosh (Clover 5122)
 
 # Working:
 - Intel UHD 620
